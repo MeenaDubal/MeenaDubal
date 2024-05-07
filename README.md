@@ -7,3 +7,4 @@ Providing guidelines for essential variables and leaving behind/removing non-ess
 Handling Missing values or human error.
 Identifying outliers
 EDA process would be maximizing insights of a dataset.
+ 
